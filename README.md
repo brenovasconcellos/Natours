@@ -43,7 +43,7 @@ No arquivo .json do projeto existem 3 tasks, sendo elas:
 Feito os seguintes passos, digite no terminal: 
 
 ```
-npm run watch:sass
+npm run compile:sass
 ```
 
 Para ter uma melhor experiência do projeto, indico a utilização de extensões para Vs-code como live-server.
